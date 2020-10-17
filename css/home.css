@@ -1,4 +1,9 @@
-.home-floor-section {
+.location-title {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.floor-section {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -6,18 +11,18 @@
   box-sizing: border-box;
   /* overflow: hidden; */
   width: 100%;
-  padding: 20px 100px;
+  padding: 40px 100px;
 }
 
-.home-floor-section h2 {
+.floor-section h3 {
   font-size: 40px;
+  white-space: nowrap;
+  margin-right: 50px;
+  font-weight: normal;
 }
 
 .card-deck {
-  display: flex;
-  flex-direction: row;
   justify-content: space-around;
-  box-sizing: border-box;
   overflow-x: auto;
   margin: 0 auto;
   white-space: nowrap;
