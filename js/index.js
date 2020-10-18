@@ -1,3 +1,5 @@
-import loadHTML from './helpers/loadHTML.js';
+import homeHTML from './screens/home.js';
 
-loadHTML('../html/home.html', 'app');
+const app = document.getElementById('app');
+
+app.innerHTML = homeHTML;
