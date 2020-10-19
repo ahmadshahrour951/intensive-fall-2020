@@ -52,8 +52,8 @@
   border-radius: 10px;
   padding: 20px;
   margin: 10px;
-  width: 270px;
-  height: 470px;
+  width: 280px;
+  height: 500px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   display: inline-block;
@@ -62,9 +62,8 @@
   overflow: hidden;
 }
 
-.card-title {
-  font-size: 18px;
-  margin: 20px 0px 10px 0px;
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card img {
@@ -75,17 +74,33 @@
   border-radius: 10px 10px 0 0;
 }
 
+.card-title {
+  font-size: 18px;
+  margin: 20px 0px 10px 0px;
+}
+
 .card h6 {
   margin: 0px;
   font-size: 16px;
 }
 
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+.card-dorm-room {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.card-dorm-room h6 {
+  margin-left: 10px;
 }
 
 .card-top-things {
   width: 100%;
+  margin-top: 8px;
+}
+
+.card label {
+  font-size: 15px;
 }
 
 .card ul {
@@ -94,7 +109,7 @@
   flex-wrap: wrap;
   list-style-type: none;
   width: 100%;
-  margin: 5px 0px 0px 0px;
+  margin: 8px 0px 0px 0px;
   padding: 0;
   justify-content: left;
 }
@@ -107,5 +122,5 @@
   font-size: 12px;
   word-wrap: break-word;
   white-space: normal;
-  margin: 2px;
+  margin: 3px;
 }
