@@ -16,7 +16,7 @@
 .location small {
   text-align: center;
   color: #ff3333;
-  padding: 10px 0px;
+  padding: 5px 0px;
   display: block;
   border-bottom: 2px solid #ff3333;
 
@@ -37,12 +37,16 @@
 }
 
 .section-hr {
-  margin: 10px 100px;
+  margin: 20px 100px;
   /* border: 0 none; */
   /* height: 1px; */
   /* Set the hr color */
   /* color: #dedede; old IE */
   /* background-color: #d3d3d3; Modern Browsers */
+}
+
+.section-hr:last-of-type {
+  display: none;
 }
 
 .floor-section h3 {
