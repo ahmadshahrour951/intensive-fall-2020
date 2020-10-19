@@ -49,7 +49,7 @@ The directories are split as follows:
 
 ## Info
 
-For more information please open an issue in github or shoot me an email at ahmed.shahrour@students.makeschool.com.
+For more information please open an issue in github or shoot me an [GitHub](ahmed.shahrour@students.makeschool.com)
 
-Here is a presentation of the idea if you'd like more information:
-https://docs.google.com/presentation/d/1WErgRsT_JgZY33QhYhOn8SJZsag1NqSlc5Ucteax9K4/edit#slide=id.ga40e9de59d_5_4
+Here is a [presentation](https://docs.google.com/presentation/d/1WErgRsT_JgZY33QhYhOn8SJZsag1NqSlc5Ucteax9K4/edit#slide=id.ga40e9de59d_5_4) of the idea if you'd like more information:
+
