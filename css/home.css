@@ -1,11 +1,28 @@
-.location-title {
+.location {
+  width: 100%;
+}
+
+.location h2 {
   text-align: center;
-  /* margin-top: 40px; */
   color: #ff3333;
-  border-bottom: 2px solid;
-  padding: 40px 0px 10px 0px;
-  margin: 0px 570px 20px 570px;
+  padding-top: 40px;
+  /* display: block; */
+  /* width: 100%; */
+  margin: 0px;
   font-size: 20px;
+  /* display: inline-block; */
+}
+
+.location small {
+  text-align: center;
+  color: #ff3333;
+  padding: 10px 0px;
+  display: block;
+  border-bottom: 2px solid #ff3333;
+
+  width: 300px;
+  margin: 0px auto 20px auto;
+  /* margin-right: 80px; */
 }
 
 .floor-section {
@@ -20,7 +37,7 @@
 }
 
 .section-hr {
-  margin: 5px 100px;
+  margin: 10px 100px;
   /* border: 0 none; */
   /* height: 1px; */
   /* Set the hr color */

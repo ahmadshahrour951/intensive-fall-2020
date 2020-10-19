@@ -1,6 +1,12 @@
 import data from '../../data/home.js';
 
-let homeHTML = `<h2 class="location-title">Herbert Hotel Residence</h2>`;
+let homeHTML = `
+<div class="location">
+      <h2>Herbert Hotel Residence</h2>
+      <small class="location-address">161 Powell St, San Francisco, CA 94102</small>
+</div>
+
+`;
 
 for (let residence of data.residences) {
   for (let floor of residence.floors) {
