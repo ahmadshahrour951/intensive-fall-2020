@@ -18,6 +18,18 @@ const data = {
               dorm_room: '214',
               top_things: ['Games', 'Streaming', 'Food'],
             },
+            {
+              img: 'alexandru.jpeg',
+              name: 'Alexandru Turcanu',
+              dorm_room: '211',
+              top_things: ['Games', 'Streaming', 'Food'],
+            },
+            {
+              img: 'tristan.jpeg',
+              name: 'Tristan Thompson',
+              dorm_room: '211',
+              top_things: ['Games', 'Streaming', 'Food'],
+            },
           ],
         },
         {
@@ -29,13 +41,29 @@ const data = {
               dorm_room: '411',
               top_things: ['Outings', 'Clothes', 'Architecture'],
             },
+            {
+              img: 'ben.jpg',
+              name: 'Ben Chan',
+              dorm_room: '414',
+              top_things: ['Gaming', 'Flying RC Helicopters', ' Eating'],
+            },
+            {
+              img: 'jackie.jpg',
+              name: 'Jackie Chan',
+              dorm_room: '414',
+              top_things: [
+                'Weightlifting',
+                'Cooking/baking',
+                'Making poor financial decisions on Amazon',
+              ],
+            },
           ],
         },
         {
           label: 'Floor 5',
           students: [
             {
-              img: 'nolan.png',
+              img: 'sergio.jpeg',
               name: 'Sergio Rodriguez',
               dorm_room: '507',
               top_things: ['Guitar', 'Movies', 'Physics'],
@@ -47,7 +75,7 @@ const data = {
               top_things: ['Guitar', 'Movies', 'Physics'],
             },
             {
-              img: 'nolan.png',
+              img: 'dino.jpg',
               name: 'Dino Martinez',
               dorm_room: '511',
               top_things: ['Guitar', 'Movies', 'Physics'],
@@ -59,7 +87,7 @@ const data = {
               top_things: ['Guitar', 'Movies', 'Physics'],
             },
             {
-              img: 'nolan.png',
+              img: 'edison.jpg',
               name: 'Edison Li',
               dorm_room: '517',
               top_things: ['Guitar', 'Movies', 'Physics'],
@@ -82,7 +110,7 @@ const data = {
               top_things: ['Philosophy', 'Music', 'Physics'],
             },
             {
-              img: 'kupono.jpeg',
+              img: 'kupono.jpg',
               name: 'Kupono Kealiinohomoku',
               dorm_room: '617',
               top_things: ['Games', 'Movies', 'Hiking'],
@@ -92,6 +120,12 @@ const data = {
         {
           label: 'Floor 7',
           students: [
+            {
+              img: 'jeremiah.jpeg',
+              name: 'Jeremiah Leary',
+              dorm_room: '711',
+              top_things: ['Running', 'Weightlifting', 'Burgers'],
+            },
             {
               img: 'ruot.jpeg',
               name: 'Ruot Nyak',
