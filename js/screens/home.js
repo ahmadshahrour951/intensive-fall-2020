@@ -22,11 +22,14 @@ for (let residence of data.residences) {
           <img src="../../images/${student.img}">
           <h4 class="card-title">${student.name}</h4>
 
-          <label>Room:</label>
-          <h6> ${student.dorm_room}</h6>
-
-
-          <ul>${topThings}</ul>
+          <div style="display: flex; flex-direction: row; margin-top: 20px;">
+            <label>Room:</label>
+            <h6 style="margin-left: 10px;"> ${student.dorm_room}</h6>
+          </div>
+          <div class="card-top-things" style="margin-top: 8px;">
+            <label>Top Things I Like:</label>
+            <ul>${topThings}</ul>
+          </div>
       </article>
       `;
     }
