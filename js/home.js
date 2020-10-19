@@ -1,4 +1,4 @@
-import data from '../../data/home.js';
+import data from '../data/home.js';
 
 let homeHTML = `
 <div class="location">
