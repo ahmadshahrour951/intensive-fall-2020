@@ -1,3 +1,4 @@
+/* Container always has 100px margin for consistancy */
 .profile {
   padding: 15px 100px;
 }
@@ -30,11 +31,13 @@ form hr {
   margin-top: 20px;
 }
 
+/* Display admin inputs on the left */
 .left-inputs {
   display: flex;
   flex-direction: column;
 }
 
+/* Display user inputs on the right */
 .right-inputs {
   display: flex;
   flex-direction: column;
@@ -54,6 +57,8 @@ form hr {
   cursor: not-allowed;
 }
 
+/* I wanted to style the input tags for top things seperately,
+I used the name attribute to select it */
 input[name='top_things'] {
   margin-bottom: 5px;
   cursor: text;

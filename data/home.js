@@ -1,3 +1,5 @@
+// Real data of my classmates at Herbert Hotel
+
 const data = {
   residences: [
     {
@@ -16,7 +18,7 @@ const data = {
               img: 'samuel.png',
               name: 'Samuel Madrigal',
               dorm_room: '214',
-              top_things: ['Games', 'Streaming', 'Food'],
+              top_things: ['Anime', 'Streaming', 'Gaming'],
             },
             {
               img: 'alexandru.jpeg',
@@ -27,7 +29,7 @@ const data = {
             {
               img: 'tristan.jpeg',
               name: 'Tristan Thompson',
-              dorm_room: '211',
+              dorm_room: 'Private',
               top_things: ['Games', 'Streaming', 'Food'],
             },
           ],
@@ -39,7 +41,7 @@ const data = {
               img: 'joshua.png',
               name: 'Joshua Riley',
               dorm_room: '411',
-              top_things: ['Outings', 'Clothes', 'Architecture'],
+              top_things: ['Design', 'Hanging Out', 'Outdoor Activities'],
             },
             {
               img: 'ben.jpg',
@@ -123,8 +125,8 @@ const data = {
             {
               img: 'jeremiah.jpeg',
               name: 'Jeremiah Leary',
-              dorm_room: '711',
-              top_things: ['Running', 'Weightlifting', 'Burgers'],
+              dorm_room: 'Private',
+              top_things: ['In-N-Out Burger', 'Weightlifting', 'Running'],
             },
             {
               img: 'ruot.jpeg',
