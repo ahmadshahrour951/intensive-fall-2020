@@ -10,7 +10,7 @@ const data = {
               img: 'rafa.jpeg',
               name: 'Rafa Vazquez',
               dorm_room: '214',
-              top_things: ['Games', 'Movies', 'Hiking'],
+              top_things: ["Rubik's cubes", 'Running', 'FIFA'],
             },
             {
               img: 'samuel.png',
