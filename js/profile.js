@@ -5,7 +5,7 @@
 let profileHTML = `
   <div class="profile">
       <form>
-          <img src="../../images/ahmed.jpeg" >
+          <img src="./images/ahmed.jpeg" >
           <hr />
           <div class="input-container">
               <!-- Admin Inputs-->

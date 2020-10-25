@@ -8,6 +8,21 @@ This repo has one entry file called `index.html`. Either fork or download this r
 
 Otherwise download the liver server extention for VSCode and follow the instructions to use index.html.
 
+## How each screen should look like
+
+### Home Page
+
+This is a page to see other users in each floor of the residence
+![Image of Home Page](
+
+https://drive.google.com/file/d/14dusZ56e2nGu94ntofJnxIEYHJZ6fFEo/view?usp=sharing
+)
+
+### Profile Page
+
+This is a page for the user to add biography information
+![Image of Profile Page](https://drive.google.com/file/d/1fhoU1gHZhsqpiZZkRr0yMqgBgrKHT6kO/view?usp=sharing)
+
 ## The Code Overview
 
 Generally I'm using a technique that grabs, manipulates, and injects html elements using javascript! You wont be finding html files here except for `index.html` which is the root file where all the magic starts.
